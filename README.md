@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-###Hi there. I'm Cliff Kwok 👋
+<b>Hi there. I'm Cliff Kwok 👋</b>
 
 - ⚡ I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
