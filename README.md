@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-###Hi there. I'm Khuyen 👋
+###Hi there. I'm Cliff Kwok 👋
 
-⚡ I love math, programming, data science, and books
-🌱 I’m addicted to learning and growing every day
-🌍 I am currently sharing a little bit of my knowledge to the world through my blogs
-📫 How to find me: www.cliffkwok.com
-💡 Medium articles : https://medium.com/@kwoktszho
+- ⚡ I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs
+- 📫 How to find me: www.cliffkwok.com
+- 💡 Medium articles : https://medium.com/@kwoktszho
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
