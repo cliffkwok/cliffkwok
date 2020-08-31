@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **cliffkwok/cliffkwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+###Hi there. I'm Khuyen 👋
+
+⚡ I love math, programming, data science, and books
+🌱 I’m addicted to learning and growing every day
+🌍 I am currently sharing a little bit of my knowledge to the world through my blogs
+📫 How to find me: www.cliffkwok.com
+💡 Medium articles : https://medium.com/@kwoktszho
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
 
