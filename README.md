@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs
-- 📫 How to find me: www.cliffkwok.com
+- 📫 How to find me: cliffkwok.ghost.io
 - 💡 Medium articles : https://medium.com/@kwoktszho
 
 
