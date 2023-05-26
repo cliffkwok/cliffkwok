@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 <b>Hi there. I'm Cliff Kwok 👋</b>
 
-- ⚡ I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
+- ⚡ I worked on Anti-Money Laundry (HK & China), AI in cybersecurity, Forensic Investigation, Blockchain
+- 🌱 MBA CUHK (Major Finance), Hochschule für Technik und Wirtschaft des Saarlandes Saarbrücken (Python for Algorithmic and Finance Computation)
+- Holder of Computer Hacking Forensic Investigator (CHFI)
 - 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: [cliffkwok.ghost.io](https://cliffkwok.ghost.io)
 - 💡 Medium articles : https://medium.com/@kwoktszho
