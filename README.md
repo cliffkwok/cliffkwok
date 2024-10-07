@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 
 <b>Hi there. I'm Cliff Kwok 👋</b>
 
-- ⚡ I worked on Anti-Money Laundry (HK & China), AI in cybersecurity, Forensic Investigation, Blockchain
+- ⚡ I worked on Anti-Money Laundry (HK & China), AI in cybersecurity, Forensic Investigation, Blockchain, AI chatbot 
 - 🌱 MBA CUHK (Major Finance), Hochschule für Technik und Wirtschaft des Saarlandes Saarbrücken (Python for Algorithmic and Finance Computation)
-- Holder of Computer Hacking Forensic Investigator (CHFI)
+- Holder of Computer Hacking Forensic Investigator (CHFI), CISA, CISM,
+- Certificated Google - Foundation of Cybersecurity
+- Stanford University online - Machine Learning certificate
 - 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs
-- 📫 How to find me: [cliffkwok.ghost.io](https://cliffkwok.ghost.io)
+- 📫 How to find via medium
 - 💡 Medium articles : https://medium.com/@kwoktszho
 
 
